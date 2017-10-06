@@ -11,5 +11,5 @@ for (let i = 1; i <= 100; i++) {
         }
     }
     let messages = [i,"Media","College","MediaCollege"];
-    console.log(messages[output])
+    console.log(messages[output]);
 }
